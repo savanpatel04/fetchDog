@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fetchDog.git/static/css/main.d0493a4d.css",
-    "main.js": "/fetchDog.git/static/js/main.98f22666.js",
-    "index.html": "/fetchDog.git/index.html",
-    "main.d0493a4d.css.map": "/fetchDog.git/static/css/main.d0493a4d.css.map",
-    "main.98f22666.js.map": "/fetchDog.git/static/js/main.98f22666.js.map"
+    "main.css": "/fetchDog/static/css/main.d0493a4d.css",
+    "main.js": "/fetchDog/static/js/main.98f22666.js",
+    "index.html": "/fetchDog/index.html",
+    "main.d0493a4d.css.map": "/fetchDog/static/css/main.d0493a4d.css.map",
+    "main.98f22666.js.map": "/fetchDog/static/js/main.98f22666.js.map"
   },
   "entrypoints": [
     "static/css/main.d0493a4d.css",
