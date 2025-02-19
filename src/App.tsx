@@ -6,7 +6,7 @@ import Login from './components/Login';
 
 function App() {
   return (
-    <Router basename="/fetchDog">
+    <Router>
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/search" element={<DogSearch />} />
