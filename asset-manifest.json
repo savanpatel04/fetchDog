@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fetchDog/static/css/main.d0493a4d.css",
-    "main.js": "/fetchDog/static/js/main.c39b0cfc.js",
+    "main.js": "/fetchDog/static/js/main.98f22666.js",
     "index.html": "/fetchDog/index.html",
     "main.d0493a4d.css.map": "/fetchDog/static/css/main.d0493a4d.css.map",
-    "main.c39b0cfc.js.map": "/fetchDog/static/js/main.c39b0cfc.js.map"
+    "main.98f22666.js.map": "/fetchDog/static/js/main.98f22666.js.map"
   },
   "entrypoints": [
     "static/css/main.d0493a4d.css",
-    "static/js/main.c39b0cfc.js"
+    "static/js/main.98f22666.js"
   ]
 }

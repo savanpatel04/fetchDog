@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Redirect all unknown routes to index.html to let React handle the routing
+      var pathname = window.location.pathname;
+      if (pathname !== "/" && !pathname.includes("index.html")) {
+        window.location.replace("/");
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
